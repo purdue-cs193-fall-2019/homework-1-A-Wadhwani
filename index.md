@@ -1,3 +1,11 @@
+## Aryan Wadhwani's First CS193 Homework
+
+This is my CS193 Github Page, and here is some of my favorite things about CS193:
+- It's run by students!
+- Helps us get on track on topics that would not normally be covered in courses
+- We're getting to use iclickers!
+- teaches us terminal
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
